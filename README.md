@@ -25,9 +25,9 @@ I built this project to practice:
 
 ![Website Screenshot](screenshot/screenshot.png)
 
-![Website Screenshot](screenshot/screenshot1.png)
+![Website Screenshot](screenshot/Screenshot1.png)
 
-![Website Screenshot](screenshot/screenshot2.png)
+![Website Screenshot](screenshot/Screenshot2.png)
 
 ## What I Learned
 - How to structure a real company website
