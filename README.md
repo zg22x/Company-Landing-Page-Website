@@ -22,9 +22,9 @@ I built this project to practice:
 👉 https://azor-a.netlify.app/
 
 ## Screenshot
-.
-.
-.
+. screenshot.jpg
+. screenshot1.jpg
+. screenshot2.jpg
 
 ## What I Learned
 - How to structure a real company website
