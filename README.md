@@ -22,9 +22,9 @@ I built this project to practice:
 👉 https://azor-a.netlify.app/
 
 ## Screenshot
-. ![Website Screenshot](Screenshot/screenshot.jpg)
-. ![Website Screenshot](Screenshot/screenshot1.jpg)
-. ![Website Screenshot](Screenshot/screenshot2.jpg)
+. ![Website Screenshot](screenshot/screenshot.jpg)
+. ![Website Screenshot](screenshot/screenshot1.jpg)
+. ![Website Screenshot](screenshot/screenshot2.jpg)
 
 ## What I Learned
 - How to structure a real company website
