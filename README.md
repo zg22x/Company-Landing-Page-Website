@@ -1,5 +1,5 @@
 # Company-Landing-Page-Website
-This is a responsive company website built using HTML, CSS, and JavaScript.   It presents company information, services, and contact details in a modern and clean design.
+This is a responsive company website built using HTML, CSS,.   It presents company information, services, and contact details in a modern and clean design.
 
 ## Purpose of the Project
 I built this project to practice:
@@ -10,7 +10,6 @@ I built this project to practice:
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 
 ## Features
 - Responsive design (works on mobile and desktop)
